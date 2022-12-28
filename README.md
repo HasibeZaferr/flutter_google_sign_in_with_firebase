@@ -1,16 +1,18 @@
-# entrepreneurship_dictionary
+# Entrepreneurship Dictionary App
 
-Entrepreneurship Dictionary
+Google sign-in using Firebase authentication for Flutter ⭐️👾 
 
-## Getting Started
+![](https://github.com/HasibeZaferr/flutter_google_sign_in_with_firebase/blob/master/assets/icons/cover-project.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Design & Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I designed UI with Figma. 
+- [Figma Design ](https://www.figma.com/community/file/1185643059867121686)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I use introduction_screen packages
+- [firebase_core](https://pub.dev/packages/firebase_core)
+- [firebase_auth](https://pub.dev/packages/firebase_auth)
+- [google_sign_in](https://pub.dev/packages/google_sign_in)
+
+- [You can access the detailed article on my medium account.](https://hasibezafer.medium.com/flutter-firebase-google-sign-in-2745ada7552)

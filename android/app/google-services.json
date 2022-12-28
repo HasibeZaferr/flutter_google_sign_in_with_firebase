@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "293342447188",
+    "project_id": "entrepreneurship-dictionary",
+    "storage_bucket": "entrepreneurship-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293342447188:android:efae631cb3cdd004684fc1",
+        "android_client_info": {
+          "package_name": "com.hasibezafer.entrepreneurship_dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293342447188-8ibqec7a0qciq4tu28ufkncgt1i2baac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasibezafer.entrepreneurship_dictionary",
+            "certificate_hash": "6e81bf6bdec38e04c19e42237dba8ccd5f74003c"
+          }
+        },
+        {
+          "client_id": "293342447188-9o33tir1v9f6eaqrar3cn5qon53uqdu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjxxjcAb-UBToI4Pi-95jeNkc1ZWrFAgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293342447188-9o33tir1v9f6eaqrar3cn5qon53uqdu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293342447188-flhjgir0od5i2k8rap6nlb5licu8paf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasibezafer.entrepreneurship.dictionary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

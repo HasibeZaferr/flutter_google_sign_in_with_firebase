@@ -1,6 +1,5 @@
 import 'package:entrepreneurship_dictionary/screens/login_screen.dart';
 import 'package:entrepreneurship_dictionary/utilities/authentication.dart';
-import 'package:entrepreneurship_dictionary/utilities/constant.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
